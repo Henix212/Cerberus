@@ -1,6 +1,6 @@
 # 🔱 Cerberus – Credit Card Fraud Detection
 
-**Cerberus** is a personal Machine Learning project focused on **credit card fraud detection** using an **Autoencoder (AE)** for anomaly detection.  
+**Cerberus** is a personal deep learning project focused on **credit card fraud detection** using an **Autoencoder (AE)** for anomaly detection.  
 The model learns normal transaction patterns and identifies fraud based on **reconstruction error**.
 
 ---
@@ -32,3 +32,4 @@ git clone https://github.com/YourUsername/Cerberus.git
 cd Cerberus
 pip install -r requirements.txt
 ```
+
