@@ -30,6 +30,8 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/YourUsername/Cerberus.git
 cd Cerberus
-pip install -r requirements.txt
 ```
+
+The start executing each cells one by one in the jupyter notebook
+
 
