@@ -32,6 +32,7 @@ git clone https://github.com/YourUsername/Cerberus.git
 cd Cerberus
 ```
 
-The start executing each cells one by one in the jupyter notebook
+Then start executing each cells one by one in the jupyter notebook
+
 
 
