@@ -1,7 +1,7 @@
 # 🔱 Cerberus – Credit Card Fraud Detection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Henix212%2FStockAuto-blue)](https://github.com/Henix212/Cerberus.git)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Henix212%2FCerberus-red)](https://github.com/Henix212/Cerberus.git)
 
 **Cerberus** is a personal deep learning project focused on **credit card fraud detection** using an **Autoencoder (AE)** for anomaly detection.  
 The model learns normal transaction patterns and identifies fraud based on **reconstruction error**.
@@ -36,6 +36,7 @@ cd Cerberus
 ```
 
 Then start executing each cells one by one in the jupyter notebook
+
 
 
 
