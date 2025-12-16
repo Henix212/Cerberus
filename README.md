@@ -28,14 +28,14 @@ The model learns normal transaction patterns and identifies fraud based on **rec
 
 ## 🛠 Installation
 
-Clone the repository and install dependencies:
+Clone the repository:
 
 ```bash
 git clone https://github.com/YourUsername/Cerberus.git
 cd Cerberus
 ```
 
-Then start executing each cells one by one in the jupyter notebook
+Then start executing each cells one by one in the jupyter notebook. First cell is to install the dependencies.
 
 
 
